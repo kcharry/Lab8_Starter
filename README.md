@@ -1,5 +1,7 @@
 # Lab8-Starter
 
+https://kcharry.github.io/Lab8_Starter/
+
 Kathy Charry
 
 **Graceful degredation and Service Workers:** Graceful degradation and service workers are related because service workers help web applications continue functioning even when certain features, like internet access, are unavailable. Instead of the application completely failing when the network is slow or offline, the service worker can provide cached resources and previously stored data so the user still has access to important functionality. This is an example of graceful degradation because the application may lose some advanced or live features, but it still works in a reduced yet usable way rather than breaking entirely.
